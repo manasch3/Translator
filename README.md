@@ -40,13 +40,20 @@ The Language Translation Tool is a Python-based project that allows users to tra
 
 📜 Example Output
 
-- 🔎 Text ["e" to exit]: Hello
-- 🔎 Language code [eg: te, fr, ar]: fr
-- Bonjour
-- 🔎 Check languages by letter? [y/n]: y
-- 🔎 Starting letter: f
-- Available languages:
-- fr: French, fi: Finnish, fa: Persian
+🔎 **Text ["e" to exit]:** Hello  
+🔎 **Language code [eg: te, fr, ar]:** fr  
+
+Bonjour  
+
+🔎 **Check languages by letter? [y/n]:** y  
+🔎 **Starting letter:** f  
+
+**Available languages:**  
+
+- fr: French  
+- fi: Finnish  
+- fa: Persian  
+
 
 🤝 Contributing
 
